@@ -19,8 +19,7 @@
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanViniciusSilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-</br>
-
+  <h2>Tecnologias</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Yan-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Yan-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
