@@ -6,7 +6,7 @@
 <div style="display: inline_block">
 🔭 Atualmente trabalhando como Dev na B4A <br/>
 🌱 Aprendendo atualmente: Angular12 <br/>
-📫 Entre em contato: yanviniciusjesussilva@gmail.com <br/>
+  📫 Entre em contato: <a href="mailTo:http://yanviniciusjesussilva@gmail.com">yanviniciusjesussilva@gmail.com</a><br/>
 ☕ Café 🖤 
 </div>
 <br/>
