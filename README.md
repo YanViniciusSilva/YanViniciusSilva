@@ -4,10 +4,10 @@
 <img align="right" width="400em" top="10em" src="/images/programação.png"/>
 
 <div style="display: inline_block">
-🔭 Atualmente trabalhando como Dev na B4A <br/>
-🌱 Aprendendo atualmente: Angular12 <br/>
+  🔭 Atualmente trabalhando como Analyst Jr. na <a href="https://b4a.com.br/" target="blank">B4A</a> <br/>
+  🌱 Aprendendo atualmente: Angular12 + Firebase<br/>
   📫 Entre em contato: <a href="mailTo:http://yanviniciusjesussilva@gmail.com">yanviniciusjesussilva@gmail.com</a><br/>
-☕ Café 🖤 
+  ☕🖤Café é vida <3
 </div>
 <br/>
 
@@ -23,6 +23,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yan-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Yan-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Yan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yan-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Yan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
