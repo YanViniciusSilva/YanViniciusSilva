@@ -10,16 +10,19 @@
 </div>
 <br/>
 
+<div>
 <div align="left">
   <a href="https://github.com/YanViniciusSilva">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=YanViniciusSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-<!-- <div><img height="180em" width="400em" src="https://br.freepik.com/vetores-gratis/programacao-de-aplicacao-e-conceito-de-desenvolvimento-de-software-laptop-com-codigo-de-programa_3628732.svg"/></div> -->
+<!-- <div align="right" ><img width="400em" src="/images/notebook.png"/></div> -->
 
-<div>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanViniciusSilva&layout=compact&langs_count=7&theme=radical"/>
+<div align="left">
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanViniciusSilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
+</div>
+
 
 </br>
 
