@@ -1,8 +1,9 @@
 
 <h2>🔥Hey guys, welcome to my GitHub!!</h2>
 
-<br/>
-<div>
+<img align="right" width="400em" top="10em" src="/images/programação.png"/>
+
+<div style="display: inline_block">
 🔭 Atualmente trabalhando como Dev na B4A <br/>
 🌱 Aprendendo atualmente: Angular12 <br/>
 📫 Entre em contato: yanviniciusjesussilva@gmail.com <br/>
@@ -10,19 +11,13 @@
 </div>
 <br/>
 
-<div>
 <div align="left">
   <a href="https://github.com/YanViniciusSilva">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=YanViniciusSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=YanViniciusSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-
-<!-- <div align="right" ><img width="400em" src="/images/notebook.png"/></div> -->
-
 <div align="left">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanViniciusSilva&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanViniciusSilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-</div>
-
 
 </br>
 
@@ -34,7 +29,6 @@
   <img align="center" alt="Yan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanViniciusSilva&show_icons=true&theme=radical); -->
 
 ![Snake animation](https://github.com/YanViniciusSilva/YanViniciusSilva/blob/output/github-contribution-grid-snake.svg)
   
