@@ -1,5 +1,5 @@
 
-<h2>🔥Hey guys, welcome to my GitHub!!</h2>
+<h2>🔥Welcome to my GitHub!!</h2>
 
 <img align="right" width="400em" top="10em" src="/images/programação.png"/>
 
