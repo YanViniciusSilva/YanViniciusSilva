@@ -19,17 +19,20 @@
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanViniciusSilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  <h2>Tecnologias</h2>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+   <h3>Tecnologias</h3>  
   <img align="center" alt="Yan-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Yan-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Yan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yan-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Yan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://www.linkedin.com/in/yan-vin%C3%ADcius-jesus-silva-b1b071238/"><img align="center" alt="Yan-Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 </div>
-
+  
+<div style="display: inline_block">
+ <h3>Linkedin</h3> 
+ <a href="https://www.linkedin.com/in/yan-vin%C3%ADcius-jesus-silva-b1b071238/"><img align="center" alt="Yan-Linkedin" height="40" width="50"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+</div>
 
 ![Snake animation](https://github.com/YanViniciusSilva/YanViniciusSilva/blob/output/github-contribution-grid-snake.svg)
   
