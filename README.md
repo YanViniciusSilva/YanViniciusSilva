@@ -4,8 +4,8 @@
 <img align="right" width="400em" top="10em" src="/images/programação.png"/>
 
 <div style="display: inline_block">
-  🔭 Atualmente trabalhando como Analyst Jr. na <a href="https://b4a.com.br/" target="blank">B4A</a> <br/>
-  🌱 Aprendendo atualmente: React + Nextjs + Tailwind & Solidity<br/>
+  🔭 Atualmente trabalhando como Software Developer na <a href="https://b4a.com.br/" target="blank">B4A</a> <br/>
+  🌱 Aprendendo atualmente: NestJs + Angular 18 + Tailwind<br/>
   📫 Entre em contato: <a href="mailTo:http://yanviniciusjesussilva@gmail.com">yanviniciusjesussilva@gmail.com</a><br/>
   ☕🖤Café é vida <3
 </div>
